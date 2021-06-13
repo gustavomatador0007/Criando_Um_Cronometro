@@ -1,0 +1,27 @@
+*
+    {
+        margin: 0px;
+        padding: 0px;
+    }
+
+.container
+    {
+        color: white;
+        text-align: center;
+        margin-top: 15%;
+        background: rgb(3, 92, 92);
+        margin-left: 400px;
+        margin-right: 400px;
+        height: 200px;
+        padding-top: 40px;
+    }
+
+h1
+    {
+        margin: 20px;
+    }
+
+.Botoes 
+    {
+        margin-top: 30px;
+    }
